@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+joblib
+mcp
+anyio>=4.5
