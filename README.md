@@ -25,6 +25,16 @@ The system predicts responses based on user queries and provides guidance relate
 
 ---
 
+
+<img width="1918" height="1078" alt="antigavity" src="https://github.com/user-attachments/assets/c33fbcd6-fc11-4561-9c62-59a0a07a6477" />
+
+
+<img width="1918" height="1078" alt="chatUI" src="https://github.com/user-attachments/assets/b0070670-95f8-484e-87f8-460e03e3b7fd" />
+
+
+
+<img width="1918" height="1078" alt="docker" src="https://github.com/user-attachments/assets/0a5b19f2-a7b4-4b72-9d20-88895e47e38d" />
+
 ## 🛠️ Tech Stack
 
 ### Frontend:
